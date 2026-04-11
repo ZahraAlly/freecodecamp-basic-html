@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Event Hub</title>
+</head>
+<header>
+    <h1>Event Hub</h1>
+        <nav>
+            <ul>
+                <li><a href="#upcoming-events">Upcoming Events</a></li>
+                <li><a href="#past-events">Past Events</a></li>
+            </ul>
+        </nav>
+</header>        
+<body>
+    <main>
+        <section id="upcoming-events">
+            <h2>Upcoming Events</h2>
+            <article>
+                <h3>Reformer Pilates and pizza party</h3>
+                <p>45 minute reformers pilates session, focusing on strength, toning and the perfect burn. Enjoy pizza and mingling afterwards.</p>
+                <p>Friday 5 February 2026, 6pm</p>
+            </article>
+            <article>
+                <h3>Barre class and buratta</h3>
+                <p>45 minute barre class, utilising ball, bands and lightweights for toning. Finish off the day with buratta bites and beverages.</p>
+                <p>Saturday 6 February 2026, 7pm</p>
+            </article>
+        </section>
+        
+        <section id=past-events>
+            <h2>Past Events</h2>
+
+        <article>
+            <h3>Mat pilates mixer</h3>
+            <p>60 minutes of mat pilates at the Sky Garden, with amazing sunset views and a chance to make new friends.</p>
+            <img src="https://plus.unsplash.com/premium_photo-1661724231136-1a8f43da7faf?q=80&w=1813&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="skygarden-pilates"/>
+         </article>
+
+         <article>
+             <h3>Rhythm spinning class</h3>
+             <p>Join us as we race against some of the best early 2000's bangers with our resident DJ motivating you for 60 minutes of spin.</p>
+             <img src="https://images.unsplash.com/photo-1637633716870-3460aa785ff4?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="spin class setting"/>
+           </article> 
+
+             </section>  
+
+</body>
+
+</html>
